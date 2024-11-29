@@ -182,3 +182,9 @@
 # conda version: 24.7.1
 +defaults/win-64::seaborn-0.13.2-py312haa95532_0
 # update specs: ['seaborn']
+==> 2024-11-28 21:28:53 <==
+# cmd: C:\Users\shiti\miniconda3\Scripts\conda-script.py install --yes --prefix C:\Users\shiti\Desktop\ML-AI_course\sample_project1\env seaborn
+# conda version: 24.7.1
+-defaults/win-64::ca-certificates-2024.9.24-haa95532_0
++defaults/win-64::ca-certificates-2024.11.26-haa95532_0
+# update specs: ['seaborn']
